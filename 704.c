@@ -49,6 +49,8 @@ void handleTransaction (char action)
 			printf("Lets's wait and see what the market will do it\n");
 			break;
 		default:
-			printf("Sorry I cannot provide any advice right now\n");
+			printf("Sorry I cannot provide any advice right no\n");
 	}
+
+	printf("GitHub test tutorial");
 }
